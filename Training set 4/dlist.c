@@ -2,10 +2,6 @@
 
 # include "dlist.h"
 # include <math.h>
-void initDList()
-{
-    start=NULL;
-}
 void insertChair(char *player)
 {
     //printf("Not implemented\n"); - task 1
